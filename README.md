@@ -12,7 +12,7 @@ Hi, my name is Christy Li. I am currently a Junior attending high school at High
 
 Schedule
 
-Monday - Wednesday 
+* Monday - Wednesday 
  
 1. Algebra 
 
@@ -30,7 +30,7 @@ Monday - Wednesday
 
 8. Study hall 
 
-Thursday - Friday  
+*Thursday - Friday  
 
 1. Algebra 
 
