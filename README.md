@@ -27,7 +27,7 @@ Schedule
 
 8. Study hall 
 
-Thursday - Friday 
+Thursday - Friday  
 
 1. Algebra 
 
