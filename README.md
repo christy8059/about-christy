@@ -4,7 +4,7 @@ _Email_: christyl8059@hstat.org
 
 _School_: High School of Telecommunication for Arts and Science 
 
-Profession: Student in High School
+_Profession_ : Student in High School
 
 ## **_About Me_** 
 
