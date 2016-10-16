@@ -10,6 +10,7 @@ Hi, my name is Christy Li. I am currently a Junior attending high school at High
 
 Schedule
  Monday - Wednesday 
+ 
 1. Algebra 
 
 2. Ap US History 
@@ -27,11 +28,19 @@ Schedule
 8. Study hall 
 
 Thursday - Friday 
+
 1. Algebra 
-2. Ap US History 
+
+2. Ap US History
+
 3. Honors English 
-4. Spanish 
+
+4. Spanish
+
 5. Software Engineering
-6. Lunch 
+
+6. Lunch
+
 7. Ap Chem 
+
 8. Ap Chem Lab
