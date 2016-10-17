@@ -33,7 +33,9 @@ Hi, my name is Christy Li. I am currently a Junior attending high school at High
 
 8. Study hall 
 
-<br> * Thursday - Friday  
+<br> 
+
+* Thursday - Friday  
 
 1. Algebra 
 
