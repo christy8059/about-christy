@@ -25,7 +25,8 @@ Hi, my name is Christy Li. I am currently a Junior attending high school at High
 
 <br> 
 
-* Thursday - Friday  
+* Thursday - Friday 
+
 1. Algebra  
 2. Ap US History  
 3. Honors English   
